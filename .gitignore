@@ -1,0 +1,8 @@
+# Ignore all Excel files
+*.xls
+*.xlsx
+*.xlsm
+
+# Ignore everything inside the data/ folder
+data/
+.vscode/
